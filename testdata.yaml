@@ -1,0 +1,11 @@
+path_login: 'https://test-stand.gb.ru/gateway/login'
+path_post: 'https://test-stand.gb.ru/api/posts'
+login: 'benya11'
+password: '696a4d2aa3'
+id_check: 93286
+title: 'Казахский доктор Стрендж'
+description: 'Как россиянин съездил в Казахстан ради "Доктора Стрэнджа"'
+content: 'Житель РФ Дмитрий Бутырин на автомобиле поехал в Павлодар, чтобы увидеть фильм "Доктор Стрэндж: В мультивселенной безумия", передает inbusiness.kz.    '
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 2
