@@ -1,0 +1,31 @@
+19:51:31 INFO ====== WebDriver manager ======
+19:51:32 INFO Get LATEST geckodriver version for 118.0 firefox
+19:51:33 INFO Get LATEST geckodriver version for 118.0 firefox
+19:51:33 INFO Driver [C:\Users\ALEX\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+19:51:39 INFO Test1 starting
+19:51:39 INFO Log in to the site
+19:51:40 INFO Send test of element //*[@id="login"]/div[1]/label/input
+19:51:40 INFO Send test of element //*[@id="login"]/div[2]/label/input
+19:51:40 INFO Click login button
+19:51:41 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+19:51:41 INFO Test2 starting
+19:51:41 INFO Log in to the site
+19:51:42 INFO Send benya11 of element //*[@id="login"]/div[1]/label/input
+19:51:42 INFO Send 696a4d2aa3 of element //*[@id="login"]/div[2]/label/input
+19:51:42 INFO Click login button
+19:51:43 INFO We find text Hello, benya11 in field //*[@id="app"]/main/nav/ul/li[3]/a
+19:51:43 INFO Test3 starting
+19:51:43 INFO Click contact link
+19:51:45 INFO We find text Contact us! in field //*[@id="app"]/main/div/div/h1
+19:51:45 INFO Test4 starting
+19:51:45 INFO Send test of element //*[@id="contact"]/div[1]/label/input
+19:51:45 INFO Test5 starting
+19:51:45 INFO Send test of element //*[@id="contact"]/div[1]/label/input
+19:51:45 INFO Test6 starting
+19:51:45 INFO Send test@mail.ru of element //*[@id="contact"]/div[2]/label/input
+19:51:45 INFO Test7 starting
+19:51:45 INFO Send test of element //*[@id="contact"]/div[3]/label/span/textarea
+19:51:45 INFO Test8 starting
+19:51:45 INFO Click contact us button
+19:51:46 INFO Test9 starting
+19:51:48 INFO We find text Form successfully submitted after click contact us button
