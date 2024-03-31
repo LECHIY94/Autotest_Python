@@ -1,4 +1,4 @@
-address: https://test-stand.gb.ru
+address: 
 browser: firefox
 sleep_time: 5
 login: 'benya11'
